@@ -13,3 +13,6 @@ Feature: Core Feature
     * step 1
     * step 2
     * step 3
+
+  Scenario: Feature 100
+    * step 1
