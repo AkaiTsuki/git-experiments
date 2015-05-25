@@ -11,6 +11,7 @@ Feature: Core Feature
     * step 5
     * step 6
     * step 7
+    * step 8
 
   Scenario: Research 1
     * step 1
