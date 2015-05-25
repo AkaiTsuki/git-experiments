@@ -19,3 +19,5 @@ Feature: Core Feature
 
   Scenario: Feature 100
     * step 1
+    * step 2
+    * step 3
